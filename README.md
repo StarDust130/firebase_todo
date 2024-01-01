@@ -1,4 +1,5 @@
-# 🔥🚀 Firebase CRUD Todo App with Next.js, Tailwind CSS, and Authentication 
+# 🔥🚀 Firebase Todo App 📝
+
 
 A sleek and efficient Todo application built with JavaScript, React, Next.js, Tailwind CSS, and Firebase. This project incorporates GitHub, Google, and Email authentication methods to provide a seamless user experience.
 
@@ -12,7 +13,7 @@ Check out the live demo and experience the magic!
 
 🌐 **Authentication Providers**: Supports GitHub, Google, and Email authentication for secure and personalized user experiences.
 
-🚀 **Next.js**: L everages the power of Next.js for server-side rendering, improved performance, and a smooth development experience.
+🚀 **Next.js**: Leverages the power of Next.js for server-side rendering, improved performance, and a smooth development experience.
 
 💻 **React**: Built with React to create dynamic and interactive user interfaces.
 
