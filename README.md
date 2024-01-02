@@ -1,6 +1,5 @@
 # 🔥🚀 Firebase Todo App 📝
 
-
 A sleek and efficient Todo application built with JavaScript, React, Next.js, Tailwind CSS, and Firebase. This project incorporates GitHub, Google, and Email authentication methods to provide a seamless user experience.
 
 ## 🌐✨ Live Demo
