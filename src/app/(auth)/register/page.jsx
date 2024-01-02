@@ -1,5 +1,5 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
+/* eslint-disable react-hooks/exhaustive-deps */
 
 import { useEffect, useState } from "react";
 import { FcGoogle } from "react-icons/fc";
@@ -37,7 +37,11 @@ const RegisterForm = () => {
 
     //! This will add email and password to firebase auth 🔥
     try {
-      const {user} = await createUserWithEmailAndPassword(auth, email, password);
+      const { user } = await createUserWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
       console.log(user);
 
       //! This will add username to firebase auth 🔥
