@@ -6,6 +6,7 @@ A sleek and efficient Todo application built with JavaScript, React, Next.js, Ta
 Check out the live demo and experience the magic! 
 ### [See Live](https://firebase-todo-zeta.vercel.app) 
 
+
 ## Features
 
 ✅ **Firebase Realtime Database**: Utilizes Firebase to perform CRUD operations, ensuring real-time synchronization of data.
